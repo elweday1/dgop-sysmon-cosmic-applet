@@ -7,6 +7,8 @@ metrics from the [`dgop`](https://github.com/AvengeMedia/dgop) command-line tool
 The applet runs `dgop` every few seconds and draws the result in the panel and
 in its popup.
 
+Inspired by DMS (DankMaterialShell), one of my favourite desktop environments.
+
 ## Requirements
 
 - `dgop` on your `PATH` (the applet calls it as `dgop`).
