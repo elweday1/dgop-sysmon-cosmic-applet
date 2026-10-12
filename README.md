@@ -1,5 +1,7 @@
 # dgop-sysmon-cosmic-applet
 
+<img src="res/screenshots/popup.png" alt="System Monitor popup" width="400"/>
+
 A COSMIC panel system monitor applet (CPU, memory, processes) that reads its
 metrics from the [`dgop`](https://github.com/AvengeMedia/dgop) command-line tool.
 The applet runs `dgop` every few seconds and draws the result in the panel and
