@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=System Monitor
+Comment=Show CPU and memory usage in the panel with a process and system monitor popup
+Type=Application
+Exec=cosmic-applet-sysmon
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Applet;System;Monitor;Process;CPU;Memory;
+Icon=utilities-system-monitor-symbolic
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicShrinkable=true
+X-HostWaylandDisplay=true
+X-CosmicHoverPopup=Auto
